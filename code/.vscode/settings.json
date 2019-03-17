@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "xmemory0": "cpp",
+        "xtr1common": "cpp",
+        "initializer_list": "cpp",
+        "xlocnum": "cpp",
+        "ios": "cpp"
+    }
+}
